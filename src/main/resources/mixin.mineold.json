@@ -1,0 +1,10 @@
+{
+  "minVersion": "0.8",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "mixin.refmap.json",
+  "package": "cn.frish2021.base.mixins",
+  "mixins": [
+    "MinecraftMixin",
+    "GuiMainMenuMixin"
+  ]
+}
